@@ -20,5 +20,5 @@
 		<a href="#" title="mentions légales"> Tout droit réservé </a>
 	</footer>
 	</body>
-	<script src="js/script.js"></script><!-- Si je le place en haut cela fait bugger les modal -->
+	<script src="script.js"></script><!-- Si je le place en haut cela fait bugger les modal -->
 </html>
